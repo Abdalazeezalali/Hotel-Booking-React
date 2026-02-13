@@ -5,7 +5,7 @@ import AllHotels from './pages/AllHotels';
 import RoomDetails from './pages/RoomDetails';
 import MyBookings from './pages/MyBookings';
 import Layout from './pages/dashboardHotel/Layout';
-import Dashboard from './pages/dashboardHotel/dashboard';
+import Dashboard from './pages/dashboardHotel/Dashboard';
 import AddHotel from './pages/dashboardHotel/AddHotel';
 import HotelList from './pages/dashboardHotel/HotelList';
 function App() {

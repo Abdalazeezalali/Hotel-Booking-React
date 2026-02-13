@@ -1,4 +1,3 @@
-import React from 'react'
 import img1 from "../assets/allrooms_3.jpg"
 import img2 from "../assets/allrooms_2.jpg"
 import { format } from "date-fns"
